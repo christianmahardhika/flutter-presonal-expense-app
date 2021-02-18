@@ -1,0 +1,4 @@
+#Fri Feb 19 00:37:23 WIT 2021
+base.0=/Users/christianmahardhika/Developer/flutter_playground/flutter-presonal-expense-app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
